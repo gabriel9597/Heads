@@ -1,0 +1,81 @@
+/* Pré Página */
+
+header h1 {
+    color: #e6cc93;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 20px;
+    }
+    
+    header h3 {
+    color: #e6cc93;
+    text-align: center;
+    }
+    
+    #opcoes {
+    margin-top: 30px;
+    }
+    
+    h1 {
+    color: #e6cc93;
+    }
+    
+    h2 {
+    color: #e6cc93;
+    }
+    
+    h3 {
+    color: #e6cc93;
+    }
+    
+    h4 {
+    color: #e6cc93;
+    text-align: center;
+    }
+    
+    h5 {
+    color: #e6cc93;
+    text-align: center;
+    }
+    
+    p {
+    color: #e6cc93;
+    text-align: center;
+    }
+    
+    #projetistas img {
+    margin-top: -12px;
+    }
+    
+    #Desenvolvedores img {
+    width: 600px;
+    }
+    
+    #Desenvolvedores h4 {
+    margin-top: 12px;
+    }
+
+    #Escolha-Site {
+        margin-bottom: 20px;
+    }
+    
+    
+    #botao-projetistas {
+    background: #e6cc93;
+    color: #088A68;
+    border-color: #e6cc93;
+    margin-left: 40%;
+    }
+    
+    #Botao-desenvolvedores {
+    background: #e6cc93;
+    color: #088A68;
+    border-color: #e6cc93;
+    margin-left: 40%;
+    }
+    
+    #footer h5 {
+    color: #e6cc93;
+    text-align: center;
+    padding-top: 20px;
+    }

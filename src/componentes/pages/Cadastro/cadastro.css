@@ -1,0 +1,14 @@
+/* Página de Cadastro */
+
+.form-container {
+    height: 100vh;
+    }
+
+#Botao-CadastroP{
+    background: #e6cc93;
+    color: #088A68;
+    font-size: 20px;
+    margin-left: 725px;
+    margin-top: -122px;
+}
+    

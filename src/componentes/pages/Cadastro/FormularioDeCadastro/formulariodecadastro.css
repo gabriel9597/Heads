@@ -1,0 +1,50 @@
+    .form-signin {
+    max-width: 670px;
+    padding: 25px;
+    margin: auto;
+    }
+
+    
+    #Rodape {
+    color: #e6cc93;
+    text-align: center;
+    }
+    
+    .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background: #fff;
+    }
+    
+    .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background: #fff;
+    }
+
+    .form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    }
+
+    #Botao-CadastroP{
+    background: #e6cc93;
+    color: #088A68;
+    font-size: 20px;
+    }
+
+    #Botao-CadastroS{
+    background: #e6cc93;
+    color: #088A68;
+    border-color: #e6cc93;
+    margin-left: -10px;
+    }
+    
+    .login-links a {
+    text-decoration: none;
+    color: #e6cc93;
+    font-size: 12pt;
+    }
